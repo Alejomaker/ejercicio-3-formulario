@@ -1,24 +1,8 @@
-body {
-   background-color: #d0e4fe;
+.titulo {
+  margin: auto;
+  text-align: center;
 }
 
-h1 {
-   color: orange;
-   text-align: center;
-   font-family: 'Pacifico', cursive;
-}
-
-p {
-   font-family: "Times New Roman";
-   font-size: 20px;
-}
-form{
-line-height: 0;
-}
-button {
-  background-color: blue;
-  color: white;
-}
 .formulario {
   position: absolute;
   left: 40%;
